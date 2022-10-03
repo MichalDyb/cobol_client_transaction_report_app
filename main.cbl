@@ -230,5 +230,4 @@
 
       *******************************
        END-PROGRAM-PARA.
-       STOP RUN
-       EXIT PROGRAM.
+       STOP RUN.
