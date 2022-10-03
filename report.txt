@@ -1,0 +1,123 @@
+--------------------------------------------------------------------------------
+--                        Clients Transactions Report                         --
+--------------------------------------------------------------------------------
+--    0001   Michal Dybas           Osobnica 99801         0123456789   DE    --
+--                          Debit 00000000 EUR         Credit 00000000 EUR    --
+--                          Debit 00000000 USD         Credit 00000000 USD    --
+--                          Debit 00000000 AUD         Credit 00000000 AUD    --
+--                          Debit 00000000 BIF         Credit 00000000 BIF    --
+--                          Debit 00000000 CAD         Credit 00000000 CAD    --
+--                          Debit 00000000 CNY         Credit 00000000 CNY    --
+--                          Debit 00000000 CZK         Credit 00000000 CZK    --
+--                          Debit 00500140 JPY         Credit 00000000 JPY    --
+--                          Debit 00000000 PLN         Credit 00400147 PLN    --
+--                          Debit 00000000 SEK         Credit 00000000 SEK    --
+--------------------------------------------------------------------------------
+--    0002   Arek Kosiek            Warszawa 34            9815812301   DE    --
+--                          Debit 00000000 EUR         Credit 00000000 EUR    --
+--                          Debit 00000000 USD         Credit 00070146 USD    --
+--                          Debit 00000000 AUD         Credit 00000000 AUD    --
+--                          Debit 00000000 BIF         Credit 00000000 BIF    --
+--                          Debit 00020140 CAD         Credit 00000000 CAD    --
+--                          Debit 00000000 CNY         Credit 00000000 CNY    --
+--                          Debit 00000000 CZK         Credit 00000000 CZK    --
+--                          Debit 00000000 JPY         Credit 00000000 JPY    --
+--                          Debit 00000000 PLN         Credit 00000000 PLN    --
+--                          Debit 00000000 SEK         Credit 00000000 SEK    --
+--------------------------------------------------------------------------------
+--    0003   Jhon Trump             New York 14            7195812315   DE    --
+--                          Debit 01000140 EUR         Credit 00000000 EUR    --
+--                          Debit 00000000 USD         Credit 00000000 USD    --
+--                          Debit 00000000 AUD         Credit 00000000 AUD    --
+--                          Debit 00000000 BIF         Credit 00000000 BIF    --
+--                          Debit 00000000 CAD         Credit 00000000 CAD    --
+--                          Debit 00000000 CNY         Credit 00000000 CNY    --
+--                          Debit 00000000 CZK         Credit 00000146 CZK    --
+--                          Debit 00000000 JPY         Credit 00000000 JPY    --
+--                          Debit 00000000 PLN         Credit 00000000 PLN    --
+--                          Debit 00000000 SEK         Credit 00000000 SEK    --
+--------------------------------------------------------------------------------
+--    0004   Hilary Clinton         New Jersey 71          5401230123   DE    --
+--                          Debit 00000000 EUR         Credit 00000000 EUR    --
+--                          Debit 00000000 USD         Credit 00000000 USD    --
+--                          Debit 00000000 AUD         Credit 00000000 AUD    --
+--                          Debit 00000000 BIF         Credit 00000000 BIF    --
+--                          Debit 00000000 CAD         Credit 00000000 CAD    --
+--                          Debit 00000000 CNY         Credit 00000000 CNY    --
+--                          Debit 00000000 CZK         Credit 00000000 CZK    --
+--                          Debit 00000000 JPY         Credit 00010149 JPY    --
+--                          Debit 00000000 PLN         Credit 00000000 PLN    --
+--                          Debit 00000000 SEK         Credit 00000000 SEK    --
+--------------------------------------------------------------------------------
+--    0005   Tom Hanks              Bevery Hills 4         6512301231   DE    --
+--                          Debit 00981343 EUR         Credit 00000000 EUR    --
+--                          Debit 00000000 USD         Credit 00000000 USD    --
+--                          Debit 00000000 AUD         Credit 00000000 AUD    --
+--                          Debit 00000000 BIF         Credit 00000000 BIF    --
+--                          Debit 00000000 CAD         Credit 00000000 CAD    --
+--                          Debit 00000000 CNY         Credit 00000000 CNY    --
+--                          Debit 00000000 CZK         Credit 00000000 CZK    --
+--                          Debit 00000000 JPY         Credit 00000000 JPY    --
+--                          Debit 00000000 PLN         Credit 00000000 PLN    --
+--                          Debit 00981343 SEK         Credit 00000000 SEK    --
+--------------------------------------------------------------------------------
+--    0006   Keanu Reeves           Majorka 42             8604122831   DE    --
+--                          Debit 00000000 EUR         Credit 00000000 EUR    --
+--                          Debit 00000000 USD         Credit 00000000 USD    --
+--                          Debit 00000000 AUD         Credit 00000000 AUD    --
+--                          Debit 00000000 BIF         Credit 00000000 BIF    --
+--                          Debit 00000000 CAD         Credit 00000000 CAD    --
+--                          Debit 00000000 CNY         Credit 00000000 CNY    --
+--                          Debit 00000000 CZK         Credit 00000000 CZK    --
+--                          Debit 00000000 JPY         Credit 00000000 JPY    --
+--                          Debit 00010149 PLN         Credit 00000000 PLN    --
+--                          Debit 00000000 SEK         Credit 00000000 SEK    --
+--------------------------------------------------------------------------------
+--    0007   Angelina Jolie         Holywood 21            2139581041   DE    --
+--                          Debit 00000000 EUR         Credit 00000000 EUR    --
+--                          Debit 00000000 USD         Credit 00000000 USD    --
+--                          Debit 00000000 AUD         Credit 00000000 AUD    --
+--                          Debit 00000000 BIF         Credit 00000000 BIF    --
+--                          Debit 00000000 CAD         Credit 00000000 CAD    --
+--                          Debit 00000000 CNY         Credit 00981343 CNY    --
+--                          Debit 00000000 CZK         Credit 00000000 CZK    --
+--                          Debit 00000000 JPY         Credit 00000000 JPY    --
+--                          Debit 00000000 PLN         Credit 00000000 PLN    --
+--                          Debit 00000000 SEK         Credit 00000000 SEK    --
+--------------------------------------------------------------------------------
+--    0008   Beata Kozidrak         Krakow 5               6778123015   DE    --
+--                          Debit 00500140 EUR         Credit 00000000 EUR    --
+--                          Debit 00000000 USD         Credit 00000000 USD    --
+--                          Debit 00981343 AUD         Credit 00000000 AUD    --
+--                          Debit 00000000 BIF         Credit 00000000 BIF    --
+--                          Debit 00000000 CAD         Credit 00000000 CAD    --
+--                          Debit 00000000 CNY         Credit 00000000 CNY    --
+--                          Debit 00000000 CZK         Credit 00000000 CZK    --
+--                          Debit 00000000 JPY         Credit 00000000 JPY    --
+--                          Debit 00000000 PLN         Credit 00000000 PLN    --
+--                          Debit 00000000 SEK         Credit 00000000 SEK    --
+--------------------------------------------------------------------------------
+--    0009   Robert Lewandowski     Warszawa 4             4041958215   DE    --
+--                          Debit 00000000 EUR         Credit 00000000 EUR    --
+--                          Debit 00000000 USD         Credit 00200140 USD    --
+--                          Debit 00000000 AUD         Credit 00000000 AUD    --
+--                          Debit 00000000 BIF         Credit 00000000 BIF    --
+--                          Debit 00000000 CAD         Credit 00000000 CAD    --
+--                          Debit 00000000 CNY         Credit 00000000 CNY    --
+--                          Debit 00000000 CZK         Credit 00000000 CZK    --
+--                          Debit 00000000 JPY         Credit 00000000 JPY    --
+--                          Debit 00000000 PLN         Credit 00000000 PLN    --
+--                          Debit 00000000 SEK         Credit 00000000 SEK    --
+--------------------------------------------------------------------------------
+--    0010   Iga Swiatek            Gdansk 13              7591230121   DE    --
+--                          Debit 00000000 EUR         Credit 00000000 EUR    --
+--                          Debit 00000000 USD         Credit 00000000 USD    --
+--                          Debit 00000000 AUD         Credit 00000000 AUD    --
+--                          Debit 00000000 BIF         Credit 00000000 BIF    --
+--                          Debit 00000000 CAD         Credit 00000000 CAD    --
+--                          Debit 00000000 CNY         Credit 00000000 CNY    --
+--                          Debit 00000000 CZK         Credit 00000000 CZK    --
+--                          Debit 00000000 JPY         Credit 00000000 JPY    --
+--                          Debit 00000000 PLN         Credit 00000000 PLN    --
+--                          Debit 00000000 SEK         Credit 00000000 SEK    --
+--------------------------------------------------------------------------------
