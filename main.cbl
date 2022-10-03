@@ -40,15 +40,15 @@
       *******************************
            FD RAPORT RECORDING MODE F.
            01 RAPORT-FILE.
-               05 FILLER PIC X(2) VALUE '  '.
+               05 FILLER PIC X(2) VALUE SPACES.
                05 RA-TR-COUNTRY-CODE PIC A(2).
-               05 FILLER PIC X(2) VALUE '  '.
+               05 FILLER PIC X(2) VALUE SPACES.
                05 RA-CL-ID PIC 9(3).
-               05 FILLER PIC X(2) VALUE '  '.
+               05 FILLER PIC X(2) VALUE SPACES.
                05 RA-CL-NAME PIC A(20).
-               05 FILLER PIC X(2) VALUE '  '.
+               05 FILLER PIC X(2) VALUE SPACES.
                05 RA-CL-ADDRESS PIC X(20).
-               05 FILLER PIC X(2) VALUE '  '.
+               05 FILLER PIC X(2) VALUE SPACES.
                05 RA-CL-NIP PIC 9(10).
                05 RA-TR-SUMMARY OCCURS 10 TIMES.
                    10 RA-TR-CURRENCY PIC A(3).
